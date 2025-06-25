@@ -29,7 +29,7 @@ npm i axec-cli
 
 ## 📂 AppImage Directory
 
-By default, `Axec` looks for AppImages in:
+By default, `Axec-cli` looks for AppImages in:
 
 ```
 ~/AppImages
