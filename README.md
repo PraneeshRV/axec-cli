@@ -5,7 +5,7 @@
 
 # Axec 🪓
 
-> A blazing-fast CLI tool to list and launch AppImages on Arch Linux — built for KDE warriors.
+> A blazing-fast CLI tool to list and launch AppImages on Arch Linux (will work on other distros)
 
 ---
 
