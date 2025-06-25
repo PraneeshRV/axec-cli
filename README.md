@@ -3,7 +3,7 @@
 ![issues](https://img.shields.io/github/issues/PraneeshRV/axec-cli)
 ![stars](https://img.shields.io/github/stars/PraneeshRV/axec-cli?style=social)
 
-# Axec 🪓
+# Axec-cli  Appimage Executor
 
 > A blazing-fast CLI tool to list and launch AppImages on Arch Linux (will work on other distros)
 
