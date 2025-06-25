@@ -1,3 +1,7 @@
+![npm version](https://img.shields.io/npm/v/axec-cli)
+![license](https://img.shields.io/github/license/PraneeshRV/axec-cli)
+![issues](https://img.shields.io/github/issues/PraneeshRV/axec-cli)
+![stars](https://img.shields.io/github/stars/PraneeshRV/axec-cli?style=social)
 
 # Axec 🪓
 
