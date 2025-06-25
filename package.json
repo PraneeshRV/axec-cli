@@ -1,0 +1,20 @@
+{
+  "name": "axec-cli",
+  "version": "1.0.0",
+  "bin": {
+    "axec-cli": "./bin/index.js"
+  },
+  "description": "A CLI tool to manage and run AppImages on Arch",
+  "keywords": ["appimage", "cli", "linux", "arch", "kde"],
+  "author": "Praneesh R V  praneeshrv404@gmail.com",
+  "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/PraneeshRV/axec-cli"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^14.0.0",
+    "inquirer": "^12.6.3"
+  }
+}
