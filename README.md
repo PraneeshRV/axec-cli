@@ -55,13 +55,15 @@ axec list
 ```
 
 ### Run an AppImage from default folder
+Example:
 ```bash
-axec run Obsidian-1.9.10.AppImage
+axec run filename.AppImage
 ```
 
 ### Run an AppImage from a custom path
+Example:
 ```bash
-axec run ~/Downloads/Obsidian-1.9.10.AppImage
+axec run ~/Downloads/filename.AppImage
 ```
 
 ---
@@ -70,7 +72,7 @@ axec run ~/Downloads/Obsidian-1.9.10.AppImage
 
 | Command        | Description                            |
 |----------------|----------------------------------------|
-| `axec list`    | Lists all `.AppImage` files in `~/AppImages` |
+| `axec list [dir]`    | Lists all `.AppImage` files in the mentioned directory (Default: `~/AppImages`) |
 | `axec run <filename>` | Launches the AppImage file            |
 
 ---
