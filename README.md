@@ -21,16 +21,8 @@
 
 ## 📦 Installation
 
-### Global (Recommended)
-
 ```bash
-npm install -g @praneesh/axec
-```
-
-### Or use via `npx`:
-
-```bash
-npx @praneesh/axec list
+npm i axec-cli
 ```
 
 ---
@@ -43,7 +35,7 @@ By default, `Axec` looks for AppImages in:
 ~/AppImages
 ```
 
-You can also pass a full path to an AppImage if it's stored elsewhere.
+**You can also pass a full path to an AppImage if it's stored elsewhere.**
 
 ---
 
