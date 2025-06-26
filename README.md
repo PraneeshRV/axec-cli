@@ -24,7 +24,11 @@
 ```bash
 sudo npm install -g axec-cli
 ```
+or use with npx 
 
+```bash
+npx axec
+```
 ---
 
 ## 📂 AppImage Directory
