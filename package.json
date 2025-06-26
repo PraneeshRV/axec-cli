@@ -1,6 +1,6 @@
 {
   "name": "axec-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "bin": {
     "axec": "./bin/index.js",
     "axec-cli": "./bin/index.js"
