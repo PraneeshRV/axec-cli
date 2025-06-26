@@ -24,6 +24,7 @@
     "url": "https://github.com/PraneeshRV/axec-cli/issues"
   },
   "dependencies": {
+    "axec-cli": "^1.0.5",
     "chalk": "^4.1.2",
     "commander": "^14.0.0",
     "inquirer": "^12.6.3"

@@ -22,7 +22,7 @@
 ## 📦 Installation
 
 ```bash
-npm i axec-cli
+sudo npm install -g axec-cli
 ```
 
 ---
